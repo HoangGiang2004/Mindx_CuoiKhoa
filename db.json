@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "name": "Sam sung1",
+      "description": "Sam sung",
+      "productCode": "Sam sung",
+      "price": 1111,
+      "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg",
+      "id": 2
+    },
+    {
+      "name": "nokia",
+      "description": "nokia",
+      "productCode": "nokia",
+      "price": 100,
+      "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg",
+      "id": 3
+    },
+    {
+      "name": "hoàng Giang ",
+      "description": "hhhh",
+      "productCode": "222",
+      "price": 111111,
+      "image": "https://lienquan.garena.vn/wp-content/uploads/2024/05/4c857ddef873ed9d1abda5377a6e41b85e607b485787a1.jpg",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "giangtran.dh.k18@gmail.com",
+      "password": "$2a$10$fsDkXtyBTfg/BOt5.1eGZuEh0D/y9vOkr1OYuRrj1Fm/9UuwYK3Si",
+      "name": "hoàng Giang ",
+      "avatar": "https://telos.vn/wp-content/uploads/2022/08/moi-nft-la-su-doc-nhat-va-khong-ai-co-the-sao-chep-hay-an-cap-nft-do-ban-tao-ra.jpg",
+      "id": 3
+    },
+    {
+      "email": "giangcute402@gmail.com",
+      "password": "$2a$10$cF6Ux5F1BfnGmAO4GLKxX.yZ.Ng9hoBOdA.Ou.bse2nuZIX//Ghgq",
+      "name": "hoàng Giang ",
+      "avatar": "https://telos.vn/wp-content/uploads/2022/08/moi-nft-la-su-doc-nhat-va-khong-ai-co-the-sao-chep-hay-an-cap-nft-do-ban-tao-ra.jpg",
+      "id": 4
+    },
+    {
+      "email": "giangtran.dh@gmail.com",
+      "password": "$2a$10$AXySY8tZBQr7fK1Pztcm9.3BLvjb7Gp2b9Xbwvoyfd2Y1.IX7csrO",
+      "name": "hoàng Giang ",
+      "avatar": "https://telos.vn/wp-content/uploads/2022/08/moi-nft-la-su-doc-nhat-va-khong-ai-co-the-sao-chep-hay-an-cap-nft-do-ban-tao-ra.jpg",
+      "id": 5
+    }
+  ]
+}
