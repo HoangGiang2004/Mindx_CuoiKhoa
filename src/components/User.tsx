@@ -5,7 +5,7 @@ const User = () => {
         <div>
 
             <h1>
-                hele
+
             </h1>
         </div>
     )
